@@ -28,9 +28,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mrnaveenkuhar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mrnaveenkuhar" /></a></p><br><br>
+<br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnaveenkuhar&show_icons=true&locale=en&layout=compact" alt="mrnaveenkuhar" /></p>
+<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnaveenkuhar&show_icons=true&locale=en&layout=compact" alt="mrnaveenkuhar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnaveenkuhar&show_icons=true&locale=en" alt="mrnaveenkuhar" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnaveenkuhar&" alt="mrnaveenkuhar" /></p>
